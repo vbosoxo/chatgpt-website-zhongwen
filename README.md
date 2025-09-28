@@ -16,7 +16,7 @@ ChatGPT镜像网站（ChatGPT Mirror）是指将原始官网的内容复制并�
 - **功能全面**：支持 AI 绘画、AI 知识库、AI 思维导图、AI 文件、AI PPT 等实用功能，更符合国内用户需求。
 
 ### 国内推荐的 ChatGPT镜像网站
-- [https://songshugpt.com/](https://songshugpt.com/) - 于2023年3月上线，稳定运行，支持 GPT4、4.0 以及 3.5、GPT-o3、deepseek、grok3，支持 MJ 绘画。
+- [https://www.songshugpt.com/](https://www.songshugpt.com/) - 于2023年3月上线，稳定运行，支持 GPT4、4.0 以及 3.5、GPT-o3、deepseek、grok3，支持 MJ 绘画。
 - [https://gptcat.net/](https://gptcat.net/) - 运营近2年，支持 GPT4、4.0 以及 3.5，提供 AI文件、AI PPT、AI助手、AI插件功能、思维导图等。
 - [https://ai.panda.xyz/](https://ai.panda.xyz/) - 运营超过1年，支持 GPT4、4.0，支持AI绘画（Midjourney和Dall·E）。
 - [https://gptdog.online/](https://gptdog.online/) - 支持 GPT4、4.0，使用简单便捷。
